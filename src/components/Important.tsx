@@ -12,13 +12,13 @@ export default function Important() {
         <h1 className='text-3xl my-4 z-10'>Important Links</h1>
       </div>
       <div className='my-[41px] flex flex-col items-center justify-center'>
-        <button className='border border-black py-2 px-6 my-2 shadow-xl w-[75%] rounded-xl text-xl'>
+        <button className='border border-black py-2 px-6 mt-[15px] mb-[14px] shadow-xl w-[75%] rounded-xl text-2xl'>
           Pre-Wedding Shoot
         </button>
-        <button className='border border-black py-2 px-6 my-2 shadow-xl w-[75%] rounded-xl text-xl'>
+        <button className='border border-black py-2 px-6 my-[14px] shadow-xl w-[75%] rounded-xl text-2xl'>
           Wedding Album
         </button>
-        <button className='border border-black py-2 px-6 mb-[86px] shadow-xl w-[75%] rounded-xl text-xl'>
+        <button className='border border-black py-2 px-6 mt-[14px] mb-[48px] shadow-xl w-[75%] rounded-xl text-2xl'>
           Wedding Video
         </button>
       </div>
